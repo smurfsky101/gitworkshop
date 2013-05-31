@@ -2,9 +2,10 @@
   "movies" : [
 		{"title" : "Harry Potter and the Deathly Hollows: Part 2"},
 		{"title" : "Batman Begins"},
-		{"title" : "Farragut West"}
+		{"title" : "Farragut West"},
 		{"title" : "Hercules: The Legendary Journeys"},
 		{"title" : "A Game of Thrones"},
-		{"title" : "Saving Ryan's Privates"}
+		{"title" : "Saving Ryan's Privates"},
+		{"title" : "The Matrix"}
 	]
 }
